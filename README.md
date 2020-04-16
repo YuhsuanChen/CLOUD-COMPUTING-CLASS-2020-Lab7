@@ -4,22 +4,22 @@
 
 After setting up the credential and call es.index to add a new index to an Elasticsearch cluster, we can open Kibana to create the new index pattern call imdb. 
 In the Kibana interface, we first click the discover tab to see the overview of our data and play around. 
- <p align="center"><img src="./Img/Kibana_discovery.png" width="50%" height="50%" alt="Kibana_discovery"/></p>
+ <p align="center"><img src="./Img/Kibana_discovery.png" width="70%" height="70%" alt="Kibana_discovery"/></p>
 
 We can also check how different it is to apply filter.
 First screenshot: without applying any filter, the result show more 3 pages of movie. 
-<p align="center"><img src="./Img/No_filter.png" width="50%" height="50%" alt="No_filter"/></p>
+<p align="center"><img src="./Img/No_filter.png" width="70%" height="70%" alt="No_filter"/></p>
 Second screenshot: The filter on year was set to 1989 and 5 movies left as follow.
-<p align="center"><img src="./Img/Filter_year.png" width="50%" height="50%" alt="Filter_year"/></p>
+<p align="center"><img src="./Img/Filter_year.png" width="70%" height="70%" alt="Filter_year"/></p>
 Third screenshot: Not only the previous filter was set, the filter on movie name also set.
-<p align="center"><img src="./Img/Filter_year_name.png" width="50%" height="50%" alt="Filter_year_name"/></p>
+<p align="center"><img src="./Img/Filter_year_name.png" width="70%" height="70%" alt="Filter_year_name"/></p>
 
 We also play around with the polts
 The first plot shows the top 10 actors that perform more movies than others.
- <p align="center"><img src="./Img/Top10_MostPerform.png" width="50%" height="50%" alt="Top10_MostPerform"/></p>
+ <p align="center"><img src="./Img/Top10_MostPerform.png" width="70%" height="70%" alt="Top10_MostPerform"/></p>
 
 The second plot we check the top 5 movies that have the most significant amount of actor perform in it.
- <p align="center"><img src="./Img/CharacterList.png" width="50%" height="50%" alt="Top10CharacterList"/></p>
+ <p align="center"><img src="./Img/CharacterList.png" width="70%" height="70%" alt="Top10CharacterList"/></p>
 
 
 
