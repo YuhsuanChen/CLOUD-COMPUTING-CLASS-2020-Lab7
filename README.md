@@ -1,6 +1,6 @@
-# CLOUD-COMPUTING-CLASS-2020-Lab6
+# CLOUD-COMPUTING-CLASS-2020-Lab7
 
-## Q74: Explain what you have done in the README.md file of the Lab7 folder of your answers repository, add the new plot. Push the code changes to your scrapy-lab repository (30% of total grade for this lab session)
+## Q74: Explain what you have done in the README.md file of the Lab7 folder of your answers repository, add the new plot.
 
 After setting up the credential and call es.index to add a new index to an Elasticsearch cluster, we can open Kibana to create the new index pattern call imdb. 
 In the Kibana interface, we first click the discover tab to see the overview of our data and play around. 
